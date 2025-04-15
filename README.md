@@ -1,0 +1,2 @@
+# example
+GitHub training course
